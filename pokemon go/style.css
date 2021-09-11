@@ -25,6 +25,11 @@ img{
     display: block;
     width: 100%;
 }
+
+.product-name{
+    font-size: x-small;
+    margin-top: -2em;
+}
 button{
     cursor: pointer;
     outline: 0;
